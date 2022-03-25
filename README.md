@@ -1,8 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awesome Library
+# Maths Muggles
 
 A one page app with a built in calculator.  We created this app using Create React App and used React Router to do client-side page routing.  We also used Netlify and Heroku to deploy the app.
+
+![Maths Muggles](./Screenshot.png)
 
 ## Built With
 
