@@ -5,7 +5,11 @@ class QuotePage extends Component {
   render() {
     return (
       <div>
-        <div>QuotePage page!!</div>
+        <h2 className="quote">
+          Mathematics is not about numbers,
+          equations, computations, or algorithms: it is about
+          understanding. -William Paul Thurston
+        </h2>
       </div>
     );
   }

@@ -5,8 +5,8 @@ import Calculator from './Calculator';
 class CalculatorPage extends Component {
   render() {
     return (
-      <div>
-        <div>calculator page!!</div>
+      <div className="calculator-main">
+        <h2>Lets do some maths!!</h2>
         <Calculator />
       </div>
     );
